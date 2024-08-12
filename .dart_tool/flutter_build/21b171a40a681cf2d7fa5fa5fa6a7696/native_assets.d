@@ -1,0 +1,1 @@
+ /home/etcher/проекты/test_test/ecommerce_app/.dart_tool/flutter_build/21b171a40a681cf2d7fa5fa5fa6a7696/native_assets.yaml: 
